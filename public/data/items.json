@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Auriculares Pro",
+      "description": "Auriculares de alta calidad con sonido envolvente y diseño ergonómico.",
+      "category": "auriculares"
+    },
+    {
+      "id": "2",
+      "name": "Estuche de Viaje",
+      "description": "Estuche resistente para proteger tus auriculares en cualquier lugar.",
+      "category": "estuche"
+    },
+    {
+      "id": "3",
+      "name": "Accesorios Premium",
+      "description": "Kit de accesorios premium para personalizar y mejorar la experiencia de uso.",
+      "category": "accesorios"
+    },
+    {
+      "id": "4",
+      "name": "Auriculares Inalámbricos",
+      "description": "Auriculares sin cables con conexión Bluetooth para mayor comodidad.",
+      "category": "auriculares"
+    },
+    {
+      "id": "5",
+      "name": "Estuche Deportivo",
+      "description": "Estuche ligero y resistente, ideal para actividades deportivas.",
+      "category": "estuche"
+    }
+  ]
